@@ -62,9 +62,25 @@ nav ul {
         text-align: center;
     }
 
+    .container {
+        margin: 50px 10px;
+        text-align: center;
+    }
 
+    #sw1 {
+        float: left;
+
+    }
+
+    #sw2 {
+        float:right;
+    }
 
 /*********************** TABLET, NOOTEBOOKS E PC´S ***********************/
 @media(min-width: 570px) {
 
+
+    #sw1,#sw2 {
+        float:none;
+    }
 }
