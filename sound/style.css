@@ -53,6 +53,15 @@ nav ul {
 
     }
 
+    footer {
+        width: 100%;
+        background-color: #cc470d;
+        Color: white;
+        padding:  15px 0px;
+        font-size: 0.9em;
+        text-align: center;
+    }
+
 
 
 /*********************** TABLET, NOOTEBOOKS E PC´S ***********************/
