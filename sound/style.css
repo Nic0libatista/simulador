@@ -1,0 +1,61 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+/* _________________________________________ Layout */
+
+body{
+    font-family: sans-serif;
+    font-size: 1em;
+
+}
+
+img {
+    max-width:  100%;
+
+}
+
+/*********************** SMARTPHONES **************************************/
+/* Cabeçalho */
+header h1 {
+    color: red;
+    text-align: center;
+    padding: 25px 0px;
+}
+
+/* Menu */
+nav {
+    width: 100%;
+
+}
+
+nav ul {
+    list-style: none;
+    background-color: orangered;
+    overflow: hidden;
+    }
+
+    nav ul li {
+        float:left;
+    }
+
+    nav ul li a {
+        text-decoration: none;
+        color: white;
+        display: block;
+        padding: 10px 15px;
+
+    }
+
+    nav ul li a:hover {
+        background-color: #cc470d;
+
+    }
+
+
+
+/*********************** TABLET, NOOTEBOOKS E PC´S ***********************/
+@media(min-width: 570px) {
+
+}
